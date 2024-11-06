@@ -1,6 +1,6 @@
 # todo-vue
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is a simple to-do list application built with Vue 3 and Vite. It allows users to add tasks, mark them as completed, and filter tasks based on their status.
 
 ## Recommended IDE Setup
 
